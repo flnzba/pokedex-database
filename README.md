@@ -1,6 +1,9 @@
 # pokedex-database
 Analysis of Pokedex
 
+Pokemon CSV provided by [Kaggle](https://www.kaggle.com/rounakbanik/pokemon)
+Pokemon API provided by [PokeAPI](https://pokeapi.co/)
+Pokemon JSON provided by [Calmcode](https://calmcode.io/datasets/pokemon-json)
 
 ## Questions to answer:
 ### 1. **Basic Queries**
